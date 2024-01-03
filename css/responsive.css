@@ -1,0 +1,14 @@
+@media(max-width:500px)
+{
+    .container{ flex-direction: column;}
+    header , .top-right{text-align: center;}
+    .searchform input { width: 300px;} 
+    .main ul { display: none;}
+    .main span{ display: block;}
+    .banner-left{width: 100%;}
+    .banner-right img{ width: 100%;}
+
+}
+.content-left{
+    width: 300px;
+}
